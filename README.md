@@ -1,6 +1,6 @@
 
 # [Scientific Calculator - Windows Application]
-A windows based application of Scientific Calculator using OOP concepts.
+A windows based application of Scientific Calculator made with visual studio using OOP concepts.
 
 ## Application Demo:
 
